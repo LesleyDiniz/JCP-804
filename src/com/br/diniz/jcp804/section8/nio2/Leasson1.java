@@ -1,4 +1,4 @@
-package com.br.diniz.jcp804.section08;
+package com.br.diniz.jcp804.section8.nio2;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
